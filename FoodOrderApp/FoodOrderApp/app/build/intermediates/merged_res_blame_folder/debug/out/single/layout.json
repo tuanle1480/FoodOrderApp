@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_personal.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\place_order_recycler_row.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_order_succeess.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\purchase_history_row.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\purchase_history_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_momo_payment.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_momo_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_history_purchase.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_history_purchase.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\menu_recycler_row.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_row.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_restaurant_menu.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details_purchase_history.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_details_purchase_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_place_your_order.xml",
+        "source": "C:\\Users\\tranq\\Downloads\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    }
+]

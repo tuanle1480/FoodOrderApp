@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.MenuAdsAppCompatActivity">
+
+    <item android:id="@+id/menu_history_purchase"
+        android:icon="@drawable/ic_baseline_history_24"
+        app:showAsAction="always"
+        android:title="purchase history">
+
+    </item>
+
+    <item android:id="@+id/menu_cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        app:showAsAction="always"
+        android:title="Cart">
+
+    </item>
+
+    <item android:id="@+id/menu_person"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:showAsAction="always"
+        android:title="Personal">
+
+    </item>
+
+
+</menu>

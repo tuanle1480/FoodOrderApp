@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+MERGED from [androidx.databinding:viewbinding:4.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c44214ddbd7c3edef49ad4922ac4dffa\jetified-viewbinding-4.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50ff13ee228b1c27c90180ca9cdeb627\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50da8625646559fcff5db4549038309a\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\6a1ccfee955a5f45bf437e4a29c26812\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d9aed5591f4bad8b0af12cc4b8169c41\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:15:1-37:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\3403bf3aab672e76cbb70e87e5003eca\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c726963ee5c138ff60ce3d25edf41c0b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8b8119e205ae10c315b97f5f6693302a\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a3851e8bb7ecdb0337a23638063aa661\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d25ecf4021236ddd27512ae02992ee7a\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4ac14cb6b4ac9de5c443ebc83661feca\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b179483b3c70e4a9570c496cb600fbe0\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d7e12fa81002581d3bb84f8faf4c852e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8496189dd64a125a01c717b70b3d69da\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\2454a7d5e73d9a7a7c843c861480a00a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\2332dbf17b4224ad8adfeb6f0ae63bce\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\dc0f16f03da9f69a3349041557079e59\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\193a994f0dd4ffcbc0ac99e00f7a8a79\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\05a32005a3d3d22a5561f890c7755214\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\065dfab43ef919603603dd091dd3e521\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\774ae7660492a9779a42e412b5c1919f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c06f03d5f88917573d6b3df8acf4eab5\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\dfc5ec4f1d508def929e6af79db78618\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b855083107bccd503043284b7b6b2496\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a790a8d432c4e504cc382de49a414897\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\67f1c6639da155ffa3fc67218a144a07\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\0799da9cd5c5e9dc0df5ebf448426cd7\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\62f341e05c95d2e2694e1b120e750085\jetified-firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\9be70cb8e45872e2a8e3112db8c6b55a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\3b9c4f4d034e19f86623c4cb98560790\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d6393ecdbc933e8cda93aab0f403091d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\5cab37822d83558766d8c6bda46e6790\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\43e3a4e8da3760ac71f8710d4aa575ab\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\ed0212fd4294b854dc1f082034b94340\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b309356e2fb05731bdc83df60f464409\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\63b2cb14bbcab76033d0e277130daeed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\735073cf996fe115d4bbe51b43a5033a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:1-78:12
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:7:5-76:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50ff13ee228b1c27c90180ca9cdeb627\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50ff13ee228b1c27c90180ca9cdeb627\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50da8625646559fcff5db4549038309a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50da8625646559fcff5db4549038309a\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d9aed5591f4bad8b0af12cc4b8169c41\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d9aed5591f4bad8b0af12cc4b8169c41\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8b8119e205ae10c315b97f5f6693302a\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8b8119e205ae10c315b97f5f6693302a\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d25ecf4021236ddd27512ae02992ee7a\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d25ecf4021236ddd27512ae02992ee7a\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4ac14cb6b4ac9de5c443ebc83661feca\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4ac14cb6b4ac9de5c443ebc83661feca\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a790a8d432c4e504cc382de49a414897\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a790a8d432c4e504cc382de49a414897\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\67f1c6639da155ffa3fc67218a144a07\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\67f1c6639da155ffa3fc67218a144a07\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\9be70cb8e45872e2a8e3112db8c6b55a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\9be70cb8e45872e2a8e3112db8c6b55a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a790a8d432c4e504cc382de49a414897\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:13:9-50
+activity#com.android.foodorderapp.DetailsPurchaseHistoryActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:15:13-59
+meta-data#android.app.lib_name
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:17:13-19:36
+	android:value
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:19:17-33
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:18:17-52
+activity#com.android.foodorderapp.HistoryPurchaseActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:22:13-52
+activity#com.android.foodorderapp.MomoPaymentActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:29:13-48
+activity#com.android.foodorderapp.PersonalActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:36:13-45
+activity#com.android.foodorderapp.CartActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:43:13-41
+activity#com.android.foodorderapp.RegisterActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:49:9-55:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:50:13-45
+activity#com.android.foodorderapp.LoginActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:57:13-42
+activity#com.android.foodorderapp.OrderSucceessActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:63:9-59
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:63:19-56
+activity#com.android.foodorderapp.PlaceYourOrderActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:64:9-60
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:64:19-57
+activity#com.android.foodorderapp.RestaurantMenuActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:65:9-60
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:65:19-57
+activity#com.android.foodorderapp.SplashActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:66:9-74:20
+	android:exported
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:67:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:72:27-74
+activity#com.android.foodorderapp.MainActivity
+ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:75:9-50
+	android:name
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml:75:19-47
+uses-sdk
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c44214ddbd7c3edef49ad4922ac4dffa\jetified-viewbinding-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c44214ddbd7c3edef49ad4922ac4dffa\jetified-viewbinding-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50ff13ee228b1c27c90180ca9cdeb627\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50ff13ee228b1c27c90180ca9cdeb627\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50da8625646559fcff5db4549038309a\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\50da8625646559fcff5db4549038309a\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\6a1ccfee955a5f45bf437e4a29c26812\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\6a1ccfee955a5f45bf437e4a29c26812\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d9aed5591f4bad8b0af12cc4b8169c41\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d9aed5591f4bad8b0af12cc4b8169c41\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\3403bf3aab672e76cbb70e87e5003eca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\3403bf3aab672e76cbb70e87e5003eca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c726963ee5c138ff60ce3d25edf41c0b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c726963ee5c138ff60ce3d25edf41c0b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8b8119e205ae10c315b97f5f6693302a\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8b8119e205ae10c315b97f5f6693302a\jetified-firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a3851e8bb7ecdb0337a23638063aa661\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a3851e8bb7ecdb0337a23638063aa661\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d25ecf4021236ddd27512ae02992ee7a\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d25ecf4021236ddd27512ae02992ee7a\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4ac14cb6b4ac9de5c443ebc83661feca\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4ac14cb6b4ac9de5c443ebc83661feca\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b179483b3c70e4a9570c496cb600fbe0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b179483b3c70e4a9570c496cb600fbe0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d7e12fa81002581d3bb84f8faf4c852e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d7e12fa81002581d3bb84f8faf4c852e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8496189dd64a125a01c717b70b3d69da\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8496189dd64a125a01c717b70b3d69da\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\2454a7d5e73d9a7a7c843c861480a00a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\2454a7d5e73d9a7a7c843c861480a00a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\2332dbf17b4224ad8adfeb6f0ae63bce\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\2332dbf17b4224ad8adfeb6f0ae63bce\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\dc0f16f03da9f69a3349041557079e59\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\dc0f16f03da9f69a3349041557079e59\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\193a994f0dd4ffcbc0ac99e00f7a8a79\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\193a994f0dd4ffcbc0ac99e00f7a8a79\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\05a32005a3d3d22a5561f890c7755214\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\05a32005a3d3d22a5561f890c7755214\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\065dfab43ef919603603dd091dd3e521\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\065dfab43ef919603603dd091dd3e521\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\774ae7660492a9779a42e412b5c1919f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\774ae7660492a9779a42e412b5c1919f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c06f03d5f88917573d6b3df8acf4eab5\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\c06f03d5f88917573d6b3df8acf4eab5\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\dfc5ec4f1d508def929e6af79db78618\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\dfc5ec4f1d508def929e6af79db78618\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b855083107bccd503043284b7b6b2496\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b855083107bccd503043284b7b6b2496\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a790a8d432c4e504cc382de49a414897\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\a790a8d432c4e504cc382de49a414897\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\67f1c6639da155ffa3fc67218a144a07\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\67f1c6639da155ffa3fc67218a144a07\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\0799da9cd5c5e9dc0df5ebf448426cd7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\0799da9cd5c5e9dc0df5ebf448426cd7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\62f341e05c95d2e2694e1b120e750085\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\62f341e05c95d2e2694e1b120e750085\jetified-firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\9be70cb8e45872e2a8e3112db8c6b55a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\9be70cb8e45872e2a8e3112db8c6b55a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\3b9c4f4d034e19f86623c4cb98560790\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\3b9c4f4d034e19f86623c4cb98560790\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d6393ecdbc933e8cda93aab0f403091d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\d6393ecdbc933e8cda93aab0f403091d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\5cab37822d83558766d8c6bda46e6790\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\5cab37822d83558766d8c6bda46e6790\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\43e3a4e8da3760ac71f8710d4aa575ab\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\43e3a4e8da3760ac71f8710d4aa575ab\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\ed0212fd4294b854dc1f082034b94340\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\ed0212fd4294b854dc1f082034b94340\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b309356e2fb05731bdc83df60f464409\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b309356e2fb05731bdc83df60f464409\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\63b2cb14bbcab76033d0e277130daeed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\63b2cb14bbcab76033d0e277130daeed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\735073cf996fe115d4bbe51b43a5033a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\735073cf996fe115d4bbe51b43a5033a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tranq\Downloads\FoodOrderApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:24:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:30:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:29:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\b0c095eb5261c9054a023c817f91b053\jetified-firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\1a748a2a94c53d03c7e09044c5b354ed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\8c14211f0487b848dd4ce2cdb4a8a155\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\tranq\.gradle\caches\transforms-2\files-2.1\4cc673cdef425eccee2387f2396255f5\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
